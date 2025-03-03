@@ -4,7 +4,7 @@ background-color: rgb(255, 215, 230);
 text-align: center;
 }
 
-#bar a, nav a{
+nav a{
     color: rgb(229, 116, 159);
     font-family: "Zain", serif;
     text-decoration: none;
@@ -43,31 +43,30 @@ ul li a, ol li a{
 }
 
 img{
-    width: 50%;
-    width: 300px;
+    width: 30%;
+    height: 40%;
     box-shadow: 3px 5px 5px rgb(77, 74, 74);
 }
 
 p{
     font-family: "Zain", serif;
     font-size: 20px;
-    margin: auto;
-    margin: 30px;
-    padding-left:20px;
-    padding-right:20px;
-    padding-top:20px;
-    padding-bottom:20px;
+    margin: 20px;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
     background-color: rgb(254, 255, 217);
     border: 2px solid pink;
     box-shadow: 3px 4px 5px rgb(77, 74, 74);
 
 }
 
-#main{
+.main{
 display: flex;
 flex-direction: row;
-margin-left:70px ;
-margin-right:70px ;
+margin-left:10%;
+margin-right:10%;
 }
 
 footer{
