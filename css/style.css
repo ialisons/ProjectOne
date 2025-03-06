@@ -6,7 +6,7 @@ background-color: rgb(159, 36, 38);
 
 nav{
     font-family: "IM Fell DW Pica", serif;
-    background-color: rgb(111, 162, 114);
+    background-color: rgb(131, 189, 134);
     font-size: 20px;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -101,7 +101,7 @@ align-items: center;
 padding-left: 5%;
 padding-right: 5%;
 padding-top: 5%;
-border: 4px double rgb(174, 181, 134);
+border: 4px dashed rgb(192, 199, 154);
 }
 
 footer{
